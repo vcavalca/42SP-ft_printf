@@ -1,2 +1,9 @@
-# 42cursus-ft_printf
-Summary: This project is pretty straight forward. You will recode printf. Hopefully you will be able to reuse it in future project without the fear of being flagged as a cheater. You will mainly learn how to use variadic arguments.
+# 42SP-ft_printf
+My own printf function in C, a 42São Paulo project. Jun/2021 - July/2021
+
+Description: Write a library that contains ft_printf, a function that will mimic the real printf.
+
+- Actual Status: in progress
+- Result: 
+
+Need any help: vcavalca@student.42sp.org.br
